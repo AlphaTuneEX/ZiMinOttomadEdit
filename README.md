@@ -1,4 +1,4 @@
-# ZiMin Ottomad Edit
+# ZiMin-Otomad Edit
 > 指针空转一小时，打你就像打蚂蚁
 
 phonk模组，但所有素材都是籽岷音骂和籽岷表情包 <br/>
@@ -30,4 +30,5 @@ License: MIT License
 
 ## 和我玩一辈子MC吧
 关注我！[**BiliBili: CalmJoe**](https://space.bilibili.com/35491228)
+
 
